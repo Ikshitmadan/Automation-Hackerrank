@@ -1,4 +1,4 @@
-onst puppeteer = require("puppeteer");
+const puppeteer = require("puppeteer");
 let { email, password } = require('./secrets');
 // let email = "";
 // let password = "";
